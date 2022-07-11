@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
-# teste
+# teste.
 email = input('Digite o seu e-mail ou telefone: ')
 password = input('Digite a sua senha: ')
 
