@@ -1,1 +1,1 @@
-# my-linkedin-bot
+# Meu bot para automação de "tarefas" no LinkedIn (estudos)
